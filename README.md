@@ -1,4 +1,4 @@
-# My first VampireSurvivor-like in Bevy
+# My first 3d Game in Unity
 
 ## 0. Before the course
 
